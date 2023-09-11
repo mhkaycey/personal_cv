@@ -7,7 +7,9 @@ This is a Flutter mobile application that serves as a comprehensive CV, showcasi
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
+- [Appetize](#appetize-link)
 - [Contributing](#contributing)
+
 
 ## Installation
 
@@ -41,9 +43,13 @@ To run this Flutter application, follow these steps:
   <br>
  <br>
  <br>
-<img src="images/screenshots/EditPage.jpeg" alt="mainscreenshot" width=300 />
+<img src="images/screenshots/EditPage.jpeg" alt="editscreenshot" width=300 />
  <br>
  <b>Edit Screen</b>
+
+ ## Appetize Link
+
+ [My Appetize Link](https://appetize.io/app/turhsvj4zyxx2jq2okkqr3wkvi?device=pixel4&osVersion=12.0&scale=75)
 
 ## Contributing
 
