@@ -35,13 +35,13 @@ To run this Flutter application, follow these steps:
 
 ## Screenshots
 
- <img src="images/screenshots/HomePage.jpg" alt="mainscreenshot" width=300 />
+ <img src="images/screenshots/HomePage.jpeg" alt="mainscreenshot" width=300 />
  <br>
  <b>Home Screen</b> 
   <br>
  <br>
  <br>
-<img src="images/screenshots/EditPage.jpg" alt="mainscreenshot" width=300 />
+<img src="images/screenshots/EditPage.jpeg" alt="mainscreenshot" width=300 />
  <br>
  <b>Edit Screen</b>
 
