@@ -1,7 +1,7 @@
-import 'package:cv/Data/mycv_data.dart';
-import 'package:cv/screens/home/homescreen.dart';
-import 'package:cv/screens/home/widgets/custom_button.dart';
 import 'package:flutter/material.dart';
+
+import 'package:cv/Data/mycv_data.dart';
+import 'package:cv/screens/home/widgets/custom_button.dart';
 
 class EditPage extends StatefulWidget {
   final MyData myData;
