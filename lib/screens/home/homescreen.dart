@@ -53,15 +53,33 @@ class HomePageState extends State<HomePage> {
                         size: 20,
                         fontWeight: FontWeight.bold,
                       ),
-                      CustomMainText(
-                        text: "Slack: ${widget.myData.slackUsername}",
-                        fontWeight: FontWeight.bold,
-                        size: 16,
+                      Row(
+                        children: [
+                          Image.asset(
+                            "images/slack.png",
+                            height: 20,
+                            width: 20,
+                          ),
+                          CustomMainText(
+                            text: "  ${widget.myData.slackUsername}",
+                            fontWeight: FontWeight.bold,
+                            size: 16,
+                          ),
+                        ],
                       ),
-                      CustomMainText(
-                        text: 'Github: ${widget.myData.githubHandle}',
-                        fontWeight: FontWeight.bold,
-                        size: 16,
+                      Row(
+                        children: [
+                          Image.asset(
+                            "images/github.png",
+                            height: 20,
+                            width: 20,
+                          ),
+                          CustomMainText(
+                            text: '  ${widget.myData.githubHandle}',
+                            fontWeight: FontWeight.bold,
+                            size: 16,
+                          ),
+                        ],
                       ),
                     ],
                     const CustomMainText(
