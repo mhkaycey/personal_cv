@@ -1,5 +1,6 @@
 import 'package:cv/Data/mycv_data.dart';
 import 'package:cv/screens/home/homescreen.dart';
+import 'package:cv/screens/home/widgets/custom_button.dart';
 import 'package:flutter/material.dart';
 
 class EditPage extends StatefulWidget {
@@ -84,7 +85,7 @@ class EditPageState extends State<EditPage> {
               const SizedBox(
                 height: 20,
               ),
-              CustomBotton(
+              CustomButton(
                 name: "Update CV",
                 onTap: () {
                   final updatedData = MyData();
